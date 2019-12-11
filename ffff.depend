@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1567891531 source:c:\users\frapodeveloper\desktop\ffff\main.cpp
+	<windows.h>
+
+1567872264 source:c:\users\fran espino\desktop\ffff\main.cpp
+	<windows.h>
+	<iostream>
+
+1567907557 source:c:\users\fran espino\desktop\interfaz imagen\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+
+1568254818 source:c:\users\frapodeveloper\desktop\interfaz imagen\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+
+1568254818 source:d:\unt\lv ciclo\electronica\interfaz imagen\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+
+1568254818 source:c:\users\frapodeveloper\desktop\lv ciclo\electronica\interfaz imagen\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+
+1571840296 source:c:\users\frapodeveloper\desktop\frapo\lv ciclo\electronica\interfaz imagen\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+
